@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "P.S. I LOVE YOU",
+  "base_artist": "Paul Partohap",
+  "createdAt": "2026-02-28T11:33:40.307439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "P.S. I LOVE YOU",
+      "artist": "Paul Partohap",
+      "has_synced": true,
+      "path": "select/01_P.S._I_LOVE_YOU_Paul_Partohap.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "张敬轩",
+      "has_synced": true,
+      "path": "select/02_P.S._I_Love_You_张敬轩.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "박정현",
+      "has_synced": true,
+      "path": "select/03_P.S._I_Love_You_박정현.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "박정현",
+      "has_synced": true,
+      "path": "select/04_P.S._I_Love_You_박정현.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "張敬軒",
+      "has_synced": true,
+      "path": "select/05_P.S._I_Love_You_張敬軒.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "Bob Dylan",
+      "has_synced": false,
+      "path": "select/06_P.S._I_Love_You_Bob_Dylan.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "Starlets",
+      "has_synced": false,
+      "path": "select/07_P.S._I_Love_You_Starlets.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/08_P.S._I_Love_You_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/09_P.S._I_Love_You_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "Dion",
+      "has_synced": false,
+      "path": "select/10_P.S._I_Love_You_Dion.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "Supper Moment",
+      "has_synced": true,
+      "path": "select/11_P.S._I_Love_You_Supper_Moment.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_P.S._I_Love_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_P.S._I_Love_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "P.s. I Love You",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/14_P.s._I_Love_You_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_P.S._I_Love_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "P.S. I LOVE U",
+      "artist": "Gackt",
+      "has_synced": false,
+      "path": "select/16_P.S._I_LOVE_U_Gackt.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "P.S. I LOVE YOU",
+      "artist": "Paul Partohap",
+      "has_synced": false,
+      "path": "select/pl_01_P.S._I_LOVE_YOU_Paul_Partohap.txt"
+    }
+  ]
+}
